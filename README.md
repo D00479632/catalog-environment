@@ -60,6 +60,8 @@ Inside the catalog-agents directory
 - gymnasium
 
 ## Project Structure
+
+```
 catalog/
 ├── catalog/
 │   └── envs/
@@ -71,3 +73,4 @@ catalog-agents/
 ├── catalog_search.py
 ├── random_agent.py
 └── reqs_agent.py
+```
