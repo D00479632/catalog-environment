@@ -1,0 +1,866 @@
+[
+  {
+    "ID": "CS 1400",
+    "Name": "Fundamentals of Programming",
+    "Hours": 3,
+    "Prerequisites": [
+      []
+    ],
+    "Designation": [
+      "CR"
+    ],
+    "Semester": [
+      "Fall",
+      "Spring"
+    ],
+    "Taken": []
+  },
+  {
+    "ID": "CS 1410",
+    "Name": "Object Oriented Programming",
+    "Hours": 3,
+    "Prerequisites": [
+      [
+        "CS 1400"
+      ]
+    ],
+    "Designation": [
+      "CR"
+    ],
+    "Semester": [
+      "Fall",
+      "Spring"
+    ],
+    "Taken": []
+  },
+  {
+    "ID": "CS 2420",
+    "Name": "Introduction to Algorithms and Data Structures",
+    "Hours": 3,
+    "Prerequisites": [
+      [
+        "CS 1410"
+      ]
+    ],
+    "Designation": [
+      "CR"
+    ],
+    "Semester": [
+      "Fall",
+      "Spring"
+    ],
+    "Taken": []
+  },
+  {
+    "ID": "CS 2450",
+    "Name": "Software Engineering",
+    "Hours": 3,
+    "Prerequisites": [
+      [
+        "CS 1410"
+      ]
+    ],
+    "Designation": [
+      "CR"
+    ],
+    "Semester": [
+      "Fall",
+      "Spring"
+    ],
+    "Taken": []
+  },
+  {
+    "ID": "CS 2810",
+    "Name": "Computer Organization and Architecture",
+    "Hours": 3,
+    "Prerequisites": [
+      [
+        "CS 1410"
+      ]
+    ],
+    "Designation": [
+      "CR"
+    ],
+    "Semester": [
+      "Fall",
+      "Spring"
+    ],
+    "Taken": []
+  },
+  {
+    "ID": "CS 3005",
+    "Name": "Programming in C++",
+    "Hours": 3,
+    "Prerequisites": [
+      [
+        "CS 1410"
+      ]
+    ],
+    "Designation": [
+      "CR"
+    ],
+    "Semester": [
+      "Fall",
+      "Spring"
+    ],
+    "Taken": []
+  },
+  {
+    "ID": "CS 3510",
+    "Name": "Algorithms",
+    "Hours": 3,
+    "Prerequisites": [
+      [
+        "CS 2420",
+        "CS 2810",
+        "CS 2100"
+      ]
+    ],
+    "Designation": [
+      "CR"
+    ],
+    "Semester": [
+      "Spring"
+    ],
+    "Taken": []
+  },
+  {
+    "ID": "CS 3530",
+    "Name": "Computational Theory",
+    "Hours": 3,
+    "Prerequisites": [
+      [
+        "CS 2420",
+        "CS 2810",
+        "CS 2100"
+      ],
+      [
+        "CS 2100"
+      ]
+    ],
+    "Designation": [
+      "CR"
+    ],
+    "Semester": [
+      "Fall"
+    ],
+    "Taken": []
+  },
+  {
+    "ID": "CS 4600",
+    "Name": "Senior Project",
+    "Hours": 3,
+    "Prerequisites": [
+      [
+        "CS 3005"
+      ]
+    ],
+    "Designation": [
+      "CR"
+    ],
+    "Semester": [
+      "Spring"
+    ],
+    "Taken": []
+  },
+  {
+    "ID": "CS 3150",
+    "Name": "Computer Networks",
+    "Hours": 3,
+    "Prerequisites": [
+      [
+        "CS 2420",
+        "CS 2810"
+      ]
+    ],
+    "Designation": [
+      "CE",
+      "E"
+    ],
+    "Semester": [
+      "Spring"
+    ],
+    "Taken": []
+  },
+  {
+    "ID": "CS 3400",
+    "Name": "Operating Systems",
+    "Hours": 3,
+    "Prerequisites": [
+      [
+        "CS 2420",
+        "CS 2810",
+        "CS 3005"
+      ]
+    ],
+    "Designation": [
+      "CE",
+      "E"
+    ],
+    "Semester": [
+      "Fall"
+    ],
+    "Taken": []
+  },
+  {
+    "ID": "CS 3410",
+    "Name": "Distributed Systems",
+    "Hours": 3,
+    "Prerequisites": [
+      [
+        "CS 2420",
+        "CS 2810"
+      ]
+    ],
+    "Designation": [
+      "CE",
+      "E"
+    ],
+    "Semester": [
+      "Fall"
+    ],
+    "Taken": []
+  },
+  {
+    "ID": "CS 3520",
+    "Name": "Programming Languages",
+    "Hours": 3,
+    "Prerequisites": [
+      [
+        "CS 2420",
+        "CS 2810"
+      ]
+    ],
+    "Designation": [
+      "CE",
+      "E"
+    ],
+    "Semester": [
+      "Fall"
+    ],
+    "Taken": []
+  },
+  {
+    "ID": "CS 3600",
+    "Name": "Graphics Programming",
+    "Hours": 3,
+    "Prerequisites": [
+      [
+        "CS 2420",
+        "CS 3005"
+      ]
+    ],
+    "Designation": [
+      "CE",
+      "E"
+    ],
+    "Semester": [
+      "Fall"
+    ],
+    "Taken": []
+  },
+  {
+    "ID": "CS 4300",
+    "Name": "Artificial Intelligence",
+    "Hours": 3,
+    "Prerequisites": [
+      [
+        "CS 2420",
+        "CS 2810",
+        "CS 3005"
+      ]
+    ],
+    "Designation": [
+      "CE",
+      "E"
+    ],
+    "Semester": [
+      "Fall"
+    ],
+    "Taken": []
+  },
+  {
+    "ID": "CS 4307",
+    "Name": "Database Systems",
+    "Hours": 3,
+    "Prerequisites": [
+      [
+        "CS 2420",
+        "CS 2810"
+      ]
+    ],
+    "Designation": [
+      "CE",
+      "E"
+    ],
+    "Semester": [
+      "Fall"
+    ],
+    "Taken": []
+  },
+  {
+    "ID": "CS 4320",
+    "Name": "Machine Learning",
+    "Hours": 3,
+    "Prerequisites": [
+      [
+        "CS 2420",
+        "CS 2810",
+        "CS 3005"
+      ]
+    ],
+    "Designation": [
+      "CE",
+      "E"
+    ],
+    "Semester": [
+      "Spring"
+    ],
+    "Taken": []
+  },
+  {
+    "ID": "CS 4550",
+    "Name": "Compilers",
+    "Hours": 3,
+    "Prerequisites": [
+      [
+        "CS 2420",
+        "CS 2810",
+        "CS 3005"
+      ]
+    ],
+    "Designation": [
+      "CE",
+      "E"
+    ],
+    "Semester": [
+      "Spring"
+    ],
+    "Taken": []
+  },
+  {
+    "ID": "SE 3200",
+    "Name": "Web Application Development I",
+    "Hours": 3,
+    "Prerequisites": [
+      [
+        "CS 1410",
+        "CS 2810"
+      ]
+    ],
+    "Designation": [
+      "CE",
+      "E"
+    ],
+    "Semester": [
+      "Fall",
+      "Spring"
+    ],
+    "Taken": []
+  },
+  {
+    "ID": "MATH 1210",
+    "Name": "Calculus I",
+    "Hours": 4,
+    "Prerequisites": [
+      []
+    ],
+    "Designation": [
+      "MCR"
+    ],
+    "Semester": [
+      "Fall",
+      "Spring"
+    ],
+    "Taken": []
+  },
+  {
+    "ID": "CS 2100",
+    "Name": "Discrete Structures",
+    "Hours": 3,
+    "Prerequisites": [
+      [
+        "MATH 1210",
+        "CS 1410"
+      ]
+    ],
+    "Designation": [
+      "MCR"
+    ],
+    "Semester": [
+      "Fall",
+      "Spring"
+    ],
+    "Taken": []
+  },
+  {
+    "ID": "MATH 3400",
+    "Name": "Probability & Statistics",
+    "Hours": 3,
+    "Prerequisites": [
+      [
+        "MATH 1220"
+      ]
+    ],
+    "Designation": [
+      "MCR"
+    ],
+    "Semester": [
+      "Fall"
+    ],
+    "Taken": []
+  },
+  {
+    "ID": "MATH 1220",
+    "Name": "Calculus II",
+    "Hours": 4,
+    "Prerequisites": [
+      [
+        "MATH 1210"
+      ]
+    ],
+    "Designation": [
+      "MCE"
+    ],
+    "Semester": [
+      "Fall",
+      "Spring"
+    ],
+    "Taken": []
+  },
+  {
+    "ID": "MATH 2210",
+    "Name": "Multivariable Calculus",
+    "Hours": 4,
+    "Prerequisites": [
+      [
+        "MATH 1220"
+      ]
+    ],
+    "Designation": [
+      "MCE"
+    ],
+    "Semester": [
+      "Fall",
+      "Spring"
+    ],
+    "Taken": []
+  },
+  {
+    "ID": "MATH 2250",
+    "Name": "Differential Equations and Linear Algebra",
+    "Hours": 4,
+    "Prerequisites": [
+      [
+        "MATH 1220"
+      ]
+    ],
+    "Designation": [
+      "MCE"
+    ],
+    "Semester": [
+      "Spring"
+    ],
+    "Taken": []
+  },
+  {
+    "ID": "MATH 2270",
+    "Name": "Linear Algebra",
+    "Hours": 3,
+    "Prerequisites": [
+      [
+        "MATH 1210"
+      ]
+    ],
+    "Designation": [
+      "MCE"
+    ],
+    "Semester": [
+      "Fall",
+      "Spring"
+    ],
+    "Taken": []
+  },
+  {
+    "ID": "MATH 2280",
+    "Name": "Ordinary Differential Equations",
+    "Hours": 3,
+    "Prerequisites": [
+      [
+        "MATH 1220"
+      ]
+    ],
+    "Designation": [
+      "MCE"
+    ],
+    "Semester": [
+      "Spring"
+    ],
+    "Taken": []
+  },
+  {
+    "ID": "MATH 3450",
+    "Name": "Statistical Inference",
+    "Hours": 3,
+    "Prerequisites": [
+      [
+        "MATH 3400"
+      ]
+    ],
+    "Designation": [
+      "MCE"
+    ],
+    "Semester": [
+      "Spring"
+    ],
+    "Taken": []
+  },
+  {
+    "ID": "MATH 3605",
+    "Name": "Introduction to Modeling and Simulation",
+    "Hours": 3,
+    "Prerequisites": [
+      [
+        "MATH 3400"
+      ]
+    ],
+    "Designation": [
+      "MCE"
+    ],
+    "Semester": [
+      "Spring"
+    ],
+    "Taken": []
+  },
+  {
+    "ID": "BIO 1610",
+    "Name": " Principles of Biology I",
+    "Hours": 5,
+    "Prerequisites": [
+      []
+    ],
+    "Designation": [
+      "SCR"
+    ],
+    "Semester": [
+      "Fall",
+      "Spring"
+    ],
+    "Taken": []
+  },
+  {
+    "ID": "CHEM 1210 ",
+    "Name": "Principles of Chemistry I",
+    "Hours": 5,
+    "Prerequisites": [
+      []
+    ],
+    "Designation": [
+      "SCR"
+    ],
+    "Semester": [
+      "Fall",
+      "Spring"
+    ],
+    "Taken": []
+  },
+  {
+    "ID": "PHYS 2210 ",
+    "Name": "Physics/Scientists Engineers I",
+    "Hours": 5,
+    "Prerequisites": [
+      [
+        "MATH 1210"
+      ]
+    ],
+    "Designation": [
+      "SCR"
+    ],
+    "Semester": [
+      "Fall"
+    ],
+    "Taken": []
+  },
+  {
+    "ID": "CS 3500",
+    "Name": "Game Development",
+    "Hours": 3,
+    "Prerequisites": [
+      [
+        "CS 3005"
+      ]
+    ],
+    "Designation": [
+      "E"
+    ],
+    "Semester": [
+      "Fall"
+    ],
+    "Taken": []
+  },
+  {
+    "ID": "CS 4800R",
+    "Name": "Undergraduate Research",
+    "Hours": 1,
+    "Prerequisites": [
+      [
+        "CS 2420",
+        "CS 2810"
+      ]
+    ],
+    "Designation": [
+      "E"
+    ],
+    "Semester": [
+      "Fall",
+      "Spring"
+    ],
+    "Taken": []
+  },
+  {
+    "ID": "CS 4920R",
+    "Name": "Internship",
+    "Hours": 1,
+    "Prerequisites": [
+      [
+        "CS 2420",
+        "CS 2810",
+        "CS 3005"
+      ]
+    ],
+    "Designation": [
+      "E"
+    ],
+    "Semester": [
+      "Fall",
+      "Spring"
+    ],
+    "Taken": []
+  },
+  {
+    "ID": "CS 4992R",
+    "Name": "Computer Science Seminar",
+    "Hours": 1,
+    "Prerequisites": [
+      [
+        "CS 2420",
+        "CS 2810"
+      ]
+    ],
+    "Designation": [
+      "E"
+    ],
+    "Semester": [
+      "Fall",
+      "Spring"
+    ],
+    "Taken": []
+  },
+  {
+    "ID": "CS 4991R",
+    "Name": "Competitive Programming",
+    "Hours": 0.5,
+    "Prerequisites": [
+      [
+        "CS 1400"
+      ]
+    ],
+    "Designation": [
+      "E"
+    ],
+    "Semester": [
+      "Fall",
+      "Spring"
+    ],
+    "Taken": []
+  },
+  {
+    "ID": "IT 1100",
+    "Name": "Introduction to Unix/Linux",
+    "Hours": 3,
+    "Prerequisites": [
+      []
+    ],
+    "Designation": [
+      "E"
+    ],
+    "Semester": [
+      "Fall",
+      "Spring"
+    ],
+    "Taken": []
+  },
+  {
+    "ID": "IT 4200",
+    "Name": "DevOps Lifecycle Management",
+    "Hours": 3,
+    "Prerequisites": [
+      [
+        "CS 1400",
+        "IT 2400"
+      ],
+      [
+        "CS 2810"
+      ]
+    ],
+    "Designation": [
+      "E"
+    ],
+    "Semester": [
+      "Fall"
+    ],
+    "Taken": []
+  },
+  {
+    "ID": "SE 1400",
+    "Name": "Web Design",
+    "Hours": 3,
+    "Prerequisites": [
+      []
+    ],
+    "Designation": [
+      "E"
+    ],
+    "Semester": [
+      "Fall",
+      "Spring"
+    ],
+    "Taken": []
+  },
+  {
+    "ID": "SE 3010",
+    "Name": "Mobile Application Development for Android",
+    "Hours": 3,
+    "Prerequisites": [
+      [
+        "CS 2420",
+        "CS 3005"
+      ]
+    ],
+    "Designation": [
+      "E"
+    ],
+    "Semester": [
+      "Spring"
+    ],
+    "Taken": []
+  },
+  {
+    "ID": "SE 3020",
+    "Name": "Mobile Application Development: iOS",
+    "Hours": 3,
+    "Prerequisites": [
+      [
+        "CS 2420",
+        "CS 3005"
+      ]
+    ],
+    "Designation": [
+      "E"
+    ],
+    "Semester": [
+      "Fall"
+    ],
+    "Taken": []
+  },
+  {
+    "ID": "SE 3100",
+    "Name": "Software Practices",
+    "Hours": 3,
+    "Prerequisites": [
+      [
+        "SE 2450"
+      ],
+      [
+        "CS 2450"
+      ],
+      [
+        "WEB 3450"
+      ]
+    ],
+    "Designation": [
+      "E"
+    ],
+    "Semester": [
+      "Spring"
+    ],
+    "Taken": []
+  },
+  {
+    "ID": "SE 4200",
+    "Name": "Web Application Development II",
+    "Hours": 3,
+    "Prerequisites": [
+      [
+        "SE 3200"
+      ]
+    ],
+    "Designation": [
+      "E"
+    ],
+    "Semester": [
+      "Spring"
+    ],
+    "Taken": []
+  },
+  {
+    "ID": "SE 3150",
+    "Name": "Software Quality",
+    "Hours": 3,
+    "Prerequisites": [
+      [
+        "SE 2450"
+      ],
+      [
+        "CS 2450"
+      ],
+      [
+        "WEB 3450"
+      ]
+    ],
+    "Designation": [
+      "E"
+    ],
+    "Semester": [
+      "Fall"
+    ],
+    "Taken": []
+  },
+  {
+    "ID": "SE 3400",
+    "Name": "Human-Computer Interaction",
+    "Hours": 3,
+    "Prerequisites": [
+      [
+        "SE 1400"
+      ],
+      [
+        "WEB 1400"
+      ]
+    ],
+    "Designation": [
+      "E"
+    ],
+    "Semester": [
+      "Fall"
+    ],
+    "Taken": []
+  },
+  {
+    "ID": "SE 3450",
+    "Name": "User Experience Design",
+    "Hours": 3,
+    "Prerequisites": [
+      [
+        "SE 1400"
+      ]
+    ],
+    "Designation": [
+      "E"
+    ],
+    "Semester": [
+      "Spring"
+    ],
+    "Taken": []
+  }
+]
